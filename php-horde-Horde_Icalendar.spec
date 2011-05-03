@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	a4abf90a9384b7853605e6761fc6389b
-URL:		http://pear.horde.org/package/Horde_Icalendar/
+URL:		https://github.com/horde/horde/tree/master/framework/Icalendar/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
