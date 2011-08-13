@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - iCalendar API
 Name:		php-horde-Horde_Icalendar
-Version:	1.0.2
+Version:	1.0.3
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	12b0aaf9b863a94bc602bd747ae40d67
+# Source0-md5:	25717edc4d982e920ea912e7cff9d539
 URL:		https://github.com/horde/horde/tree/master/framework/Icalendar/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
