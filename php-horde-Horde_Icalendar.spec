@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Icalendar
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - iCalendar API
 Name:		php-horde-Horde_Icalendar
 Version:	1.1.2
